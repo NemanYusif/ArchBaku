@@ -1,3 +1,5 @@
+import { current } from '@reduxjs/toolkit';
+
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
@@ -9,7 +11,8 @@ export default {
       colors:{
         brand:'#016B38',
         secondry:'#B08968',
-        linkback:'#F1F1F1'
+        linkback:'#F1F1F1',
+        grayBack:'#F4F4F4'
       },
       fontFamily:{
         Roboto:["Roboto", 'sans-serif']
@@ -26,10 +29,7 @@ export default {
         connectBack:"url('/Connect/connect.svg')",
         footerimg:"url('/Footer/footerback.svg')",
         aboutUsBanner:"url('/AboutUsBanner/aboutUsBanner.svg')"
-      
     },
-   
-    
     },
   },
   plugins: [],

@@ -7,6 +7,7 @@ import Vacancy from "../Pages/Vacancy";
 import News from "../Pages/News";
 import Contact from "../Pages/Contact";
 import ProjectsDetail from "../Pages/ProjectsDetail";
+import ServiceDetails from "../Pages/ServiceDetails";
 
 export const MyRoutes = [
   {
@@ -39,7 +40,12 @@ export const MyRoutes = [
     element: <Services />,
     title: "Servicec",
   },
-  ,
+  {
+    id: 9,
+    path: "/servicedetails/:sId",
+    element: <ServiceDetails />,
+    title: "Servise Details",
+  },
   {
     id: 5,
     path: "/vacancy",
