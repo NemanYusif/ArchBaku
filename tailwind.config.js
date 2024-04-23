@@ -12,7 +12,8 @@ export default {
         brand:'#016B38',
         secondry:'#B08968',
         linkback:'#F1F1F1',
-        grayBack:'#F4F4F4'
+        grayBack:'#F4F4F4',
+        inputColor:'#EDEDED'
       },
       fontFamily:{
         Roboto:["Roboto", 'sans-serif']

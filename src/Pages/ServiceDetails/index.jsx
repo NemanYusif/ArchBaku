@@ -3,6 +3,7 @@ import TopHeader from "../../Components/TopHeader";
 import Header from "../../Components/Header";
 import ServiceBanner from "../../Components/ServiceBanner";
 import ServicesDetail from "../../Components/ServicesDetail";
+import Footer from "../../Components/Footer";
 
 const ServiceDetails = () => {
   return (
@@ -11,6 +12,7 @@ const ServiceDetails = () => {
       <Header />
       <ServiceBanner />
       <ServicesDetail />
+      <Footer />
     </>
   );
 };

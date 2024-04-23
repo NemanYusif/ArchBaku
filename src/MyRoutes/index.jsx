@@ -8,6 +8,7 @@ import News from "../Pages/News";
 import Contact from "../Pages/Contact";
 import ProjectsDetail from "../Pages/ProjectsDetail";
 import ServiceDetails from "../Pages/ServiceDetails";
+import Vacansies from "../Pages/Vacancies";
 
 export const MyRoutes = [
   {
@@ -51,6 +52,12 @@ export const MyRoutes = [
     path: "/vacancy",
     element: <Vacancy />,
     title: "Vacancy",
+  },
+  {
+    id: 10,
+    path: "/vacancies/:jId",
+    element: <Vacansies />,
+    title: "Vacansies",
   },
   {
     id: 6,

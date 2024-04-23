@@ -117,48 +117,64 @@ const Footer = () => {
                 <div className="border-2 border-secondry mt-2 mb-5 max-sm:mt-2 w-[15%] rounded-md"></div>
               </div>
               <div className="flex gap-x-2 ">
-                <img
-                  className="hover:-translate-y-2 duration-300"
-                  src="/Footer/footer1.svg"
-                  alt=""
-                />
-                <img
-                  className="hover:-translate-y-2 duration-300"
-                  src="/Footer/footer2.svg"
-                  alt=""
-                />
-                <img
-                  className="hover:-translate-y-2 duration-300"
-                  src="/Footer/footer3.svg"
-                  alt=""
-                />
-                <img
-                  className="hover:-translate-y-2 duration-300"
-                  src="/Footer/footer4.svg"
-                  alt=""
-                />
+                <Link>
+                  <img
+                    className="hover:-translate-y-2 duration-300"
+                    src="/Footer/footer1.svg"
+                    alt=""
+                  />
+                </Link>
+                <Link>
+                  <img
+                    className="hover:-translate-y-2 duration-300"
+                    src="/Footer/footer2.svg"
+                    alt=""
+                  />
+                </Link>
+                <Link>
+                  <img
+                    className="hover:-translate-y-2 duration-300"
+                    src="/Footer/footer3.svg"
+                    alt=""
+                  />
+                </Link>
+                <Link>
+                  <img
+                    className="hover:-translate-y-2 duration-300"
+                    src="/Footer/footer4.svg"
+                    alt=""
+                  />
+                </Link>
               </div>
               <div className="flex gap-2">
-                <img
-                  className="hover:-translate-y-2 duration-300"
-                  src="/Footer/footer5.svg"
-                  alt=""
-                />
-                <img
-                  className="hover:-translate-y-2 duration-300"
-                  src="/Footer/footer6.svg"
-                  alt=""
-                />
-                <img
-                  className="hover:-translate-y-2 duration-300"
-                  src="/Footer/footer7.svg"
-                  alt=""
-                />
-                <img
-                  className="hover:-translate-y-2 duration-300"
-                  src="/Footer/footer8.svg"
-                  alt=""
-                />
+                <Link>
+                  <img
+                    className="hover:-translate-y-2 duration-300"
+                    src="/Footer/footer5.svg"
+                    alt=""
+                  />
+                </Link>
+                <Link>
+                  <img
+                    className="hover:-translate-y-2 duration-300"
+                    src="/Footer/footer6.svg"
+                    alt=""
+                  />
+                </Link>
+                <Link>
+                  <img
+                    className="hover:-translate-y-2 duration-300"
+                    src="/Footer/footer7.svg"
+                    alt=""
+                  />
+                </Link>
+                <Link>
+                  <img
+                    className="hover:-translate-y-2 duration-300"
+                    src="/Footer/footer8.svg"
+                    alt=""
+                  />
+                </Link>
               </div>
             </div>
           </div>
