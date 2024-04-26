@@ -1,22 +1,20 @@
 import axios from "axios";
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router";
-
-const Url = "http://localhost:3000/vacancy/";
+const URL = "http://localhost:3000/vacancy/";
 const VacancyInformation = () => {
   const [addInfo, setAddInfo] = useState([]);
-
+  const [vacancyInfo, setVacancyInform] = useState({});
   const { jId } = useParams();
-  const [vacancyInform, setVacancuInform] = useState({});
-
   useEffect(() => {
-    axios.get(Url).then(({ data }) => {
-      const currentVacancy = data.find((s) => s.id == jId);
-      setVacancuInform(currentVacancy);
+    axios.get(URL).then(({ data }) => {
+      const currentVacancy = data.find((j) => j.id == jId);
+      setVacancyInform(currentVacancy);
       setAddInfo(data);
       console.log(currentVacancy);
     });
   }, [jId]);
+
   return (
     <>
       <div className="container px-[3%] mx-auto">

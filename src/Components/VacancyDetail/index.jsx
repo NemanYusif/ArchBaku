@@ -3,20 +3,13 @@ import React, { useEffect, useState } from "react";
 import { IoIosArrowForward } from "react-icons/io";
 import { TbPointFilled } from "react-icons/tb";
 import { Link } from "react-router-dom";
-
 const URL = "http://localhost:3000/vacancy/";
 const VacancyDetail = () => {
   const [vacancyDetail, setVacancyDetail] = useState([]);
-
   useEffect(() => {
-    axios
-      .get(URL)
-      .then(({ data }) => {
-        setVacancyDetail(data);
-      })
-      .catch(() => {
-        console.log("Error Var nese");
-      });
+    axios.get(URL).then(({ data }) => {
+      setVacancyDetail(data);
+    });
   }, []);
   const count = vacancyDetail.length;
   return (
@@ -52,11 +45,8 @@ const VacancyDetail = () => {
                         <IoIosArrowForward />
                       </Link>
                     </div>
-                    <div
-                      key={id}
-                      className="flex flex-col lg:flex-row  gap-16 mt-5 border-b border-gray-500 w-full lg:w-[75%] border-opacity-30"
-                    >
-                      <div className="flex flex-col gap-y-2">
+                    <div className="flex flex-col lg:flex-row  gap-16 mt-5 border-b border-gray-500 w-full lg:w-[75%] border-opacity-30">
+                      <div key={id} className="flex flex-col gap-y-2">
                         <p>{startDate}</p>
                         <p>{endDate}</p>
                         <p>{salary}</p>
