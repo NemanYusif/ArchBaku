@@ -16,7 +16,6 @@ const ServicesDetail = () => {
       setServiceDetails(data);
     });
   }, [sId]);
-
   return (
     <>
       <div className="container px-[3%] mx-auto">

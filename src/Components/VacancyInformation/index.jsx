@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import { useParams } from "react-router";
 const URL = "http://localhost:3000/vacancy/";
 const VacancyInformation = () => {
-  const [addInfo, setAddInfo] = useState([]);
+  const [addInfo, setAddInfo] = useState({});
   const [vacancyInfo, setVacancyInform] = useState({});
   const { jId } = useParams();
   useEffect(() => {

@@ -1,4 +1,4 @@
-import { current } from '@reduxjs/toolkit';
+
 
 /** @type {import('tailwindcss').Config} */
 export default {
@@ -31,6 +31,7 @@ export default {
         footerimg:"url('/Footer/footerback.svg')",
         aboutUsBanner:"url('/AboutUsBanner/aboutUsBanner.svg')"
     },
+    
     },
   },
   plugins: [],
