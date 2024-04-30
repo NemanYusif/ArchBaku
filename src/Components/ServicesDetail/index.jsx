@@ -2,7 +2,6 @@ import axios from "axios";
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router";
 import { Link } from "react-router-dom";
-
 const URL = "http://localhost:3000/service/";
 const ServicesDetail = () => {
   const [serviceDetails, setServiceDetails] = useState([]);

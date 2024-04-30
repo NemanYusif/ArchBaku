@@ -22,19 +22,25 @@ const VacancyDetail = () => {
           </div>
           {vacancyDetail.length &&
             vacancyDetail.map(
-              ({
-                id,
-                title,
-                startDate,
-                endDate,
-                salary,
-                age,
-                education,
-                experiencs,
-                requests,
-              }) => {
+              (
+                {
+                  id,
+                  title,
+                  startDate,
+                  endDate,
+                  salary,
+                  age,
+                  education,
+                  experiencs,
+                  requests,
+                },
+                idx
+              ) => {
                 return (
-                  <div className="bg-grayBack mt-10 mb-10 p-10 w-[100%] lg:w-[70%]  border shadow-md rounded-md">
+                  <div
+                    key={idx}
+                    className="bg-grayBack mt-10 mb-10 p-10 w-[100%] lg:w-[70%]  border shadow-md rounded-md"
+                  >
                     <div className="flex justify-between">
                       <h2 className="text-2xl font-bold">{title}</h2>
                       <Link
@@ -46,7 +52,7 @@ const VacancyDetail = () => {
                       </Link>
                     </div>
                     <div className="flex flex-col lg:flex-row  gap-16 mt-5 border-b border-gray-500 w-full lg:w-[75%] border-opacity-30">
-                      <div key={id} className="flex flex-col gap-y-2">
+                      <div className="flex flex-col gap-y-2">
                         <p>{startDate}</p>
                         <p>{endDate}</p>
                         <p>{salary}</p>
@@ -63,9 +69,9 @@ const VacancyDetail = () => {
                       </div>
                       <div className="mt-5">
                         <ul className="flex flex-col gap-y-2">
-                          {requests.map((requests) => {
+                          {requests.map((requests, idx) => {
                             return (
-                              <li className="flex items-center">
+                              <li key={idx} className="flex items-center">
                                 <TbPointFilled />
                                 {requests}
                               </li>
