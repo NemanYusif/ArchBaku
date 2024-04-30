@@ -3,7 +3,7 @@ import { BiAlarm } from "react-icons/bi";
 import { Link } from "react-router-dom";
 import { IoIosArrowForward } from "react-icons/io";
 import axios from "axios";
-const URL = "http://localhost:3000/news/";
+const URL = "http://localhost:3000/news/?_limit=4";
 const News = () => {
   const [news, setNews] = useState([]);
   useEffect(() => {
@@ -41,7 +41,7 @@ const News = () => {
                         <h3 className="font-bold text-base">{title}</h3>
                         <p className="text-md mt-1">{description}</p>
                         <Link
-                          to="/news"
+                          to="/newsdetailpage"
                           className="text-sm flex items-center text-brand gap-1 mt-2 font-bold"
                         >
                           Davamı <IoIosArrowForward />

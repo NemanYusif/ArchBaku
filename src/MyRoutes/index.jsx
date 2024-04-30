@@ -9,6 +9,7 @@ import Contact from "../Pages/Contact";
 import ProjectsDetail from "../Pages/ProjectsDetail";
 import ServiceDetails from "../Pages/ServiceDetails";
 import Vacansies from "../Pages/Vacancies";
+import NewsDetailPage from "../Pages/NewsDetailPage";
 
 export const MyRoutes = [
   {
@@ -63,6 +64,12 @@ export const MyRoutes = [
     id: 6,
     path: "/news",
     element: <News />,
+    title: "News",
+  },
+  {
+    id: 11,
+    path: "/newsdetailpage",
+    element: <NewsDetailPage />,
     title: "News",
   },
   {
