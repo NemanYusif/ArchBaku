@@ -1,7 +1,7 @@
 import axios from "axios";
 import React, { useEffect, useState } from "react";
 
-const URL = "http://localhost:3000/colleagues/";
+const URL = "http://localhost:3000/colleagues/";  
 const Colleagues = () => {
   const [colleagues, setColleagues] = useState([]);
   useEffect(() => {

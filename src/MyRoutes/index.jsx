@@ -68,7 +68,7 @@ export const MyRoutes = [
   },
   {
     id: 11,
-    path: "/newsdetailpage",
+    path: "/newsdetailpage/:nId",
     element: <NewsDetailPage />,
     title: "News",
   },

@@ -3,10 +3,6 @@ import React, { useEffect, useState } from "react";
 import { useParams } from "react-router";
 import ReactPlayer from "react-player";
 import { Link } from "react-router-dom";
-
-const URL = "http://localhost:3000/projects/";
-const URL2 = "http://localhost:3000/projects/?_limit=6";
-
 const ProjectsDetails = () => {
   const { pId } = useParams();
 
