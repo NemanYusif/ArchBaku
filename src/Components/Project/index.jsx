@@ -38,7 +38,7 @@ const Project = () => {
               </button>
             </div>
           </div>
-          <div className="900j0">
+          <div className="grid grid-cols-1 gap-5 md-grid-cols-2 lg:grid-cols-4">
             {projectsImg.length &&
               projectsImg.map(({ id, image, title }) => {
                 return (

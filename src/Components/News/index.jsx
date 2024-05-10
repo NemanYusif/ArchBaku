@@ -41,7 +41,7 @@ const News = () => {
                         <h3 className="font-bold text-base">{title}</h3>
                         <p className="text-md mt-1">{description}</p>
                         <Link
-                          to="/newsdetailpage"
+                          to={`/newsdetailpage/${id}`}
                           className="text-sm flex items-center text-brand gap-1 mt-2 font-bold"
                         >
                           Davamı <IoIosArrowForward />
