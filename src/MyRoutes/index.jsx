@@ -10,6 +10,7 @@ import ProjectsDetail from "../Pages/ProjectsDetail";
 import ServiceDetails from "../Pages/ServiceDetails";
 import Vacansies from "../Pages/Vacancies";
 import NewsDetailPage from "../Pages/NewsDetailPage";
+import Error from "../Pages/Error";
 
 export const MyRoutes = [
   {
@@ -77,5 +78,11 @@ export const MyRoutes = [
     path: "/contact",
     element: <Contact />,
     title: "Contact",
+  },
+  {
+    id: 12,
+    path: "/*",
+    element: <Error />,
+    title: "404 Not Found",
   },
 ];
