@@ -2,7 +2,7 @@ import axios from "axios";
 import React, { useEffect, useState } from "react";
 import { IoIosArrowForward } from "react-icons/io";
 import { Link } from "react-router-dom";
-const URL = "http://localhost:3000/projects?_limit=4";
+const URL = "https://arch-baku-json.vercel.app/projects?_limit=4";
 const Project = () => {
   const [projectsImg, setProjectsImg] = useState([]);
   useEffect(() => {

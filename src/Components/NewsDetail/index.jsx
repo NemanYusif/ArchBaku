@@ -3,7 +3,7 @@ import { BiAlarm } from "react-icons/bi";
 import { Link } from "react-router-dom";
 import { IoIosArrowForward } from "react-icons/io";
 import axios from "axios";
-const URL = "http://localhost:3000/news/";
+const URL = "https://arch-baku-json.vercel.app/news/";
 const NewsDetail = () => {
   const [newsDetail, setNewsDetail] = useState([]);
   useEffect(() => {

@@ -3,7 +3,7 @@ import { useEffect, useMemo, useState } from "react";
 import { IoIosArrowForward } from "react-icons/io";
 import { Link, useSearchParams } from "react-router-dom";
 import Tapilmadi from "../Tapilmadi";
-const URL = "http://localhost:3000/projects/";
+const URL = "https://arch-baku-json.vercel.app/projects/";
 const AllProject = () => {
   const [allProjectsImg, setAllProjectsImg] = useState([]);
   const [filtered, setFiltered] = useState([]);

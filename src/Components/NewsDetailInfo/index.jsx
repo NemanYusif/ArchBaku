@@ -9,8 +9,8 @@ const NewsDetailInfo = () => {
   const [newsDetails, setNewsDetails] = useState([]);
 
   const endpoints = [
-    `http://localhost:3000/news/${nId}`,
-    "http://localhost:3000/news/?_limit=6",
+    `https://arch-baku-json.vercel.app/news/${nId}`,
+    "https://arch-baku-json.vercel.app/?_limit=6",
   ];
   useEffect(() => {
     axios

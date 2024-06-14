@@ -1,0 +1,383 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "image": "/Project/Project1.svg",
+      "detailImg": "/DetailImg/detailImg2.svg",
+      "category": "Tikinti",
+      "title": "Lorem ipsum dolor sit amet",
+      "youtube": "/www.youtube-nocookie.com/embed/OsCmH4qY5vc?si=-Y9idrbdAnEZ1gNv&amp;controls=0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas. Massa, euismod ut sit justo, tempor justo sed dictum sit. Malesuada viverra et viverra venenatis, sed phasellus leo scelerisque mi. Sagittis tortor arcu facilisis purus pulvinar. Lacus urna et aliquet cras pellentesque eu. Dolor lectus tortor odio velit vestibulum praesent neque dolor.",
+      "descriptionmini": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas."
+    },
+    {
+      "id": 2,
+      "image": "/Project/Project2.svg",
+      "detailImg": "/DetailImg/detailImg3.svg",
+      "category": "Restavrasiya",
+      "title": "Lorem ipsum dolor sit amet",
+      "youtube": "https://www.youtube-nocookie.com/embed/pXRviuL6vMY?si=bn0jel1cxVd3FL2d&amp;controls=0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas. Massa, euismod ut sit justo, tempor justo sed dictum sit. Malesuada viverra et viverra venenatis, sed phasellus leo scelerisque mi. Sagittis tortor arcu facilisis purus pulvinar. Lacus urna et aliquet cras pellentesque eu. Dolor lectus tortor odio velit vestibulum praesent neque dolor.",
+      "descriptionmini": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas."
+    },
+    {
+      "id": 3,
+      "image": "/Project/Project3.svg",
+      "detailImg": "/DetailImg/detailImg2.svg",
+      "category": "Lahiyelendirme",
+      "title": "Lorem ipsum dolor sit amet",
+      "youtube": "https://www.youtube-nocookie.com/embed/SYM-RJwSGQ8?si=2-MnekRzHaaFHjMA&amp;controls=0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas. Massa, euismod ut sit justo, tempor justo sed dictum sit. Malesuada viverra et viverra venenatis, sed phasellus leo scelerisque mi. Sagittis tortor arcu facilisis purus pulvinar. Lacus urna et aliquet cras pellentesque eu. Dolor lectus tortor odio velit vestibulum praesent neque dolor.",
+      "descriptionmini": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas."
+    },
+    {
+      "id": 4,
+      "image": "/Project/Project4.svg",
+      "detailImg": "/DetailImg/detailImg3.svg",
+      "category": "Restavrasiya",
+      "title": "Lorem ipsum dolor sit amet",
+      "youtube": "https://www.youtube-nocookie.com/embed/SYM-RJwSGQ8?si=2-MnekRzHaaFHjMA&amp;controls=0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas. Massa, euismod ut sit justo, tempor justo sed dictum sit. Malesuada viverra et viverra venenatis, sed phasellus leo scelerisque mi. Sagittis tortor arcu facilisis purus pulvinar. Lacus urna et aliquet cras pellentesque eu. Dolor lectus tortor odio velit vestibulum praesent neque dolor.",
+      "descriptionmini": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas."
+    },
+    {
+      "id": 5,
+      "image": "/Project/Project1.svg",
+      "detailImg": "/DetailImg/detailImg2.svg",
+      "category": "Tikinti",
+      "title": "Lorem ipsum dolor sit amet",
+      "youtube": "https://www.youtube-nocookie.com/embed/pXRviuL6vMY?si=bn0jel1cxVd3FL2d&amp;controls=0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas. Massa, euismod ut sit justo, tempor justo sed dictum sit. Malesuada viverra et viverra venenatis, sed phasellus leo scelerisque mi. Sagittis tortor arcu facilisis purus pulvinar. Lacus urna et aliquet cras pellentesque eu. Dolor lectus tortor odio velit vestibulum praesent neque dolor.",
+      "descriptionmini": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas."
+    },
+    {
+      "id": 6,
+      "image": "/Project/Project2.svg",
+      "detailImg": "/DetailImg/detailImg3.svg",
+      "category": "Restavrasiya",
+      "title": "Lorem ipsum dolor sit amet",
+      "youtube": "/www.youtube-nocookie.com/embed/OsCmH4qY5vc?si=-Y9idrbdAnEZ1gNv&amp;controls=0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas. Massa, euismod ut sit justo, tempor justo sed dictum sit. Malesuada viverra et viverra venenatis, sed phasellus leo scelerisque mi. Sagittis tortor arcu facilisis purus pulvinar. Lacus urna et aliquet cras pellentesque eu. Dolor lectus tortor odio velit vestibulum praesent neque dolor.",
+      "descriptionmini": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas."
+    },
+    {
+      "id": 7,
+      "image": "/Project/Project3.svg",
+      "detailImg": "/DetailImg/detailImg3.svg",
+      "category": "Lahiyelendirme",
+      "title": "Lorem ipsum dolor sit amet",
+      "youtube": "https://www.youtube-nocookie.com/embed/pXRviuL6vMY?si=bn0jel1cxVd3FL2d&amp;controls=0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas. Massa, euismod ut sit justo, tempor justo sed dictum sit. Malesuada viverra et viverra venenatis, sed phasellus leo scelerisque mi. Sagittis tortor arcu facilisis purus pulvinar. Lacus urna et aliquet cras pellentesque eu. Dolor lectus tortor odio velit vestibulum praesent neque dolor.",
+      "descriptionmini": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas."
+    },
+    {
+      "id": 8,
+      "image": "/Project/Project4.svg",
+      "detailImg": "/DetailImg/detailImg3.svg",
+      "category": "Restavrasiya",
+      "title": "Lorem ipsum dolor sit amet",
+      "youtube": "https://www.youtube-nocookie.com/embed/pXRviuL6vMY?si=bn0jel1cxVd3FL2d&amp;controls=0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas. Massa, euismod ut sit justo, tempor justo sed dictum sit. Malesuada viverra et viverra venenatis, sed phasellus leo scelerisque mi. Sagittis tortor arcu facilisis purus pulvinar. Lacus urna et aliquet cras pellentesque eu. Dolor lectus tortor odio velit vestibulum praesent neque dolor.",
+      "descriptionmini": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas."
+    },
+    {
+      "id": 9,
+      "image": "/Project/Project1.svg",
+      "detailImg": "/DetailImg/detailImg2.svg",
+      "category": "Tikinti",
+      "title": "Lorem ipsum dolor sit amet",
+      "youtube": "/www.youtube-nocookie.com/embed/OsCmH4qY5vc?si=-Y9idrbdAnEZ1gNv&amp;controls=0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas. Massa, euismod ut sit justo, tempor justo sed dictum sit. Malesuada viverra et viverra venenatis, sed phasellus leo scelerisque mi. Sagittis tortor arcu facilisis purus pulvinar. Lacus urna et aliquet cras pellentesque eu. Dolor lectus tortor odio velit vestibulum praesent neque dolor.",
+      "descriptionmini": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas."
+    },
+    {
+      "id": 10,
+      "image": "/Project/Project2.svg",
+      "detailImg": "/DetailImg/detailImg2.svg",
+      "category": "Restavrasiya",
+      "title": "Lorem ipsum dolor sit amet",
+      "youtube": "/www.youtube-nocookie.com/embed/OsCmH4qY5vc?si=-Y9idrbdAnEZ1gNv&amp;controls=0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas. Massa, euismod ut sit justo, tempor justo sed dictum sit. Malesuada viverra et viverra venenatis, sed phasellus leo scelerisque mi. Sagittis tortor arcu facilisis purus pulvinar. Lacus urna et aliquet cras pellentesque eu. Dolor lectus tortor odio velit vestibulum praesent neque dolor.",
+      "descriptionmini": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas."
+    },
+    {
+      "id": 11,
+      "image": "/Project/Project3.svg",
+      "detailImg": "/DetailImg/detailImg2.svg",
+      "category": "Lahiyelendirme",
+      "title": "Lorem ipsum dolor sit amet",
+      "youtube": "/www.youtube-nocookie.com/embed/OsCmH4qY5vc?si=-Y9idrbdAnEZ1gNv&amp;controls=0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas. Massa, euismod ut sit justo, tempor justo sed dictum sit. Malesuada viverra et viverra venenatis, sed phasellus leo scelerisque mi. Sagittis tortor arcu facilisis purus pulvinar. Lacus urna et aliquet cras pellentesque eu. Dolor lectus tortor odio velit vestibulum praesent neque dolor.",
+      "descriptionmini": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas."
+    },
+    {
+      "id": 12,
+      "image": "/Project/Project4.svg",
+      "detailImg": "/DetailImg/detailImg2.sv g",
+      "category": "Restavrasiya",
+      "title": "Lorem ipsum dolor sit amet",
+      "youtube": "/www.youtube-nocookie.com/ embed/OsCmH4qY5vc?si=-Y9idrbdAnEZ1gNv&amp;controls=0",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas. Massa, euismod ut sit justo, tempor justo sed dictum sit. Malesuada viverra et viverra venenatis, sed phasellus leo scelerisque mi. Sagittis tortor arcu facilisis purus pulvinar. Lacus urna et aliquet cras pellentesque eu. Dolor lectus tortor odio velit vestibulum praesent neque dolor.",
+      "descriptionmini": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas."
+    }
+  ],
+  "service": [
+    {
+      "id": 1,
+      "image": "/Service/serviceimg.svg",
+      "detailimage": "/ServicesImg/ServicesImg.svg",
+      "category": "Tikinti",
+      "title": "Tikinti",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas. Massa, euismod ut sit justo, tempor justo sed dictum sit. Malesuada viverra et viverra venenatis, sed phasellus leo scelerisque mi. Sagittis tortor arcu facilisis purus pulvinar. Lacus urna et aliquet cras pellentesque eu. Dolor lectus tortor odio velit vestibulum praesent neque dolor.",
+      "descriptionmini": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas.",
+      "descriptoin": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id sem mattis pulvinar lacus. Viverra erat aenean orci tristique pellentesque iaculis aliquam. Malesuada ornare nisi, sit id eget elit ullamcorper."
+    },
+    {
+      "id": 2,
+      "image": "/Service/serviceimg2.svg",
+      "detailimage": "/ServicesImg/ServicesImg.jpg",
+      "category": "Restavrasiya",
+      "title": "Restavrasiya",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas. Massa, euismod ut sit justo, tempor justo sed dictum sit. Malesuada viverra et viverra venenatis, sed phasellus leo scelerisque mi. Sagittis tortor arcu facilisis purus pulvinar. Lacus urna et aliquet cras pellentesque eu. Dolor lectus tortor odio velit vestibulum praesent neque dolor.",
+      "descriptionmini": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas.",
+      "descriptoin": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id sem mattis pulvinar lacus. Viverra erat aenean orci tristique pellentesque iaculis aliquam. Malesuada ornare nisi, sit id eget elit ullamcorper."
+    },
+    {
+      "id": 3,
+      "image": "/Service/serviceimg3.svg",
+      "detailimage": "/ServicesImg/ServicesImg2.jpg",
+      "category": "Texnikaninicaresi",
+      "title": "Layihələndirmə",
+      "description": "Lore m ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas. Massa, euismod ut sit justo, tempor justo sed dictum sit. Malesuada viverra et viverra venenatis, sed phasellus leo scelerisque mi. Sagittis tortor arcu facilisis purus pulvinar. Lacus urna et aliquet cras pellentesque eu. Dolor lectus tortor odio velit vestibulum praesent neque dolor.",
+      "descriptionmini": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas.",
+      "descriptoin": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id sem mattis pulvinar lacus. Viverra erat aenean orci tristique pellentesque iaculis aliquam. Malesuada ornare nisi, sit id eget elit ullamcorper."
+    },
+    {
+      "id": 4,
+      "image": "/Service/serviceimg4.svg",
+      "detailimage": "/ServicesImg/ServicesImg3.jpg",
+      "category": "Texnikaninicaresi",
+      "title": "Texnikanın icarəsi",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas. Massa, euismod ut sit justo, tempor justo sed dictum sit. Malesuada viverra et viverra venenatis, sed phasellus leo scelerisque mi. Sagittis tortor arcu facilisis purus pulvinar. Lacus urna et aliquet cras pellentesque eu. Dolor lectus tortor odio velit vestibulum praesent neque dolor.",
+      "descriptionmini": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas.",
+      "descriptoin": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id sem mattis pulvinar lacus. Viverra erat aenean orci tristique pellentesque iaculis aliquam. Malesuada ornare nisi, sit id eget elit ullamcorper."
+    },
+    {
+      "id": 5,
+      "image": "/Service/serviceimg5.svg",
+      "detailimage": "/ServicesImg/ServicesImg4.jpg",
+      "category": "Temir",
+      "title": "Təmir",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas. Massa, euismod ut sit justo, tempor justo sed dictum sit. Malesuada viverra et viverra venenatis, sed phasellus leo scelerisque mi. Sagittis tortor arcu facilisis purus pulvinar. Lacus urna et aliquet cras pellentesque eu. Dolor lectus tortor odio velit vestibulum praesent neque dolor.",
+      "descriptionmini": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas.",
+      "descriptoin": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id sem mattis pulvinar lacus. Viverra erat aenean orci tristique pellentesque iaculis aliquam. Malesuada ornare nisi, sit id eget elit ullamcorper."
+    },
+    {
+      "id": 6,
+      "image": "/Service/serviceimg6.svg",
+      "detailimage": "/ServicesImg/ServicesImg5.jpg",
+      "category": "EksteryerveLandsaftdizayni",
+      "title": "Eksteryer və Landşaft dizaynı",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas. Massa, euismod ut sit justo, tempor justo sed dictum sit. Malesuada viverra et viverra venenatis, sed phasellus leo scelerisque mi. Sagittis tortor arcu facilisis purus pulvinar. Lacus urna et aliquet cras pellentesque eu. Dolor lectus tortor odio velit vestibulum praesent neque dolor.",
+      "descriptionmini": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Facilisi eu sit quis amet, ligula ultrices phasellus risus eget. Non eu tortor enim pharetra. Massa aliquam at consequat ultrices pellentesque donec tristique egestas ultricies. Aliquam vel in hendrerit egestas.",
+      "descriptoin": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id sem mattis pulvinar lacus. Viverra erat aenean orci tristique pellentesque iaculis aliquam. Malesuada ornare nisi, sit id eget elit ullamcorper."
+    }
+  ],
+  "Technique": [
+    {
+      "id": 1,
+      "image": "/Techniques/texnoImg1.svg",
+      "title": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id": 2,
+      "image": "/Techniques/texnoImg2.svg",
+      "title": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id": 3,
+      "image": "/Techniques/texnoImg3.svg",
+      "title": "Lorem ipsum dolor sit amet"
+    },
+    {
+      "id": 4,
+      "image": "/Techniques/texnoImg4.svg",
+      "title": "Lorem ipsum dolor sit amet"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "image": "/News/news1.svg",
+      "detailImage": "/NewsDeatilImage/newsDetail1.svg",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus amet lectus elit ... ",
+      "firtsDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum morbi quis posuere rutrum id urna in etiam. Sit varius proin ac duis turpis mollis in ultrices. Accumsan blandit ac sit vestibulum donec tincidunt cursus.",
+      "secondDesc": "Eu nulla sit morbi velit aliquam id. Etiam semper nec velit semper blandit mauris arcu elit. Aliquet quis dictumst cras fermentum sit interdum non metus. Eget odio scelerisque consequat dictumst tellus.",
+      "treedDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum morbi quis posuere rutrum id urna in etiam. Sit varius proin ac duis turpis mollis in ultrices. Accumsan blandit ac sit vestibulum donec tincidunt cursus.",
+      "fourdDesc": "Eu nulla sit morbi velit aliquam id. Etiam semper nec velit semper blandit mauris arcu elit. Aliquet quis dictumst cras fermentum sit interdum non metus. Eget odio scelerisque consequat dictumst tellus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum morbi quis posuere rutrum id urna in etiam. Sit varius proin ac duis turpis mollis in ultrices. Accumsan blandit ac sit vestibulum donec tincidunt cursus."
+    },
+    {
+      "id": 2,
+      "image": "/News/news2.svg",
+      "detailImage": "/NewsDeatilImage/newsDetail2.svg",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "firtsDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum morbi quis posuere rutrum id urna in etiam. Sit varius proin ac duis turpis mollis in ultrices. Accumsan blandit ac sit vestibulum donec tincidunt cursus.",
+      "secondDesc": "Eu nulla sit morbi velit aliquam id. Etiam semper nec velit semper blandit mauris arcu elit. Aliquet quis dictumst cras fermentum sit interdum non metus. Eget odio scelerisque consequat dictumst tellus.",
+      "treedDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum morbi quis posuere rutrum id urna in etiam. Sit varius proin ac duis turpis mollis in ultrices. Accumsan blandit ac sit vestibulum donec tincidunt cursus.",
+      "fourdDesc": "Eu nulla sit morbi velit aliquam id. Etiam semper nec velit semper blandit mauris arcu elit. Aliquet quis dictumst cras fermentum sit interdum non metus. Eget odio scelerisque consequat dictumst tellus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum morbi quis posuere rutrum id urna in etiam. Sit varius proin ac duis turpis mollis in ultrices. Accumsan blandit ac sit vestibulum donec tincidunt cursus.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus amet lectus elit ... "
+    },
+    {
+      "id": 3,
+      "image": "/News/news3.svg",
+      "detailImage": "/NewsDeatilImage/newsDetail3.svg",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "firtsDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum morbi quis posuere rutrum id urna in etiam. Sit varius proin ac duis turpis mollis in ultrices. Accumsan blandit ac sit vestibulum donec tincidunt cursus.",
+      "secondDesc": "Eu nulla sit morbi velit aliquam id. Etiam semper nec velit semper blandit mauris arcu elit. Aliquet quis dictumst cras fermentum sit interdum non metus. Eget odio scelerisque consequat dictumst tellus.",
+      "treedDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum morbi quis posuere rutrum id urna in etiam. Sit varius proin ac duis turpis mollis in ultrices. Accumsan blandit ac sit vestibulum donec tincidunt cursus.",
+      "fourdDesc": "Eu nulla sit morbi velit aliquam id. Etiam semper nec velit semper blandit mauris arcu elit. Aliquet quis dictumst cras fermentum sit interdum non metus. Eget odio scelerisque consequat dictumst tellus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum morbi quis posuere rutrum id urna in etiam. Sit varius proin ac duis turpis mollis in ultrices. Accumsan blandit ac sit vestibulum donec tincidunt cursus.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus amet lectus elit ... "
+    },
+    {
+      "id": 4,
+      "image": "/News/news4.svg",
+      "detailImage": "/NewsDeatilImage/newsDetail1.svg",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "firtsDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum morbi quis posuere rutrum id urna in etiam. Sit varius proin ac duis turpis mollis in ultrices. Accumsan blandit ac sit vestibulum donec tincidunt cursus.",
+      "secondDesc": "Eu nulla sit morbi velit aliquam id. Etiam semper nec velit semper blandit mauris arcu elit. Aliquet quis dictumst cras fermentum sit interdum non metus. Eget odio scelerisque consequat dictumst tellus.",
+      "treedDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum morbi quis posuere rutrum id urna in etiam. Sit varius proin ac duis turpis mollis in ultrices. Accumsan blandit ac sit vestibulum donec tincidunt cursus.",
+      "fourdDesc": "Eu nulla sit morbi velit aliquam id. Etiam semper nec velit semper blandit mauris arcu elit. Aliquet quis dictumst cras fermentum sit interdum non metus. Eget odio scelerisque consequat dictumst tellus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum morbi quis posuere rutrum id urna in etiam. Sit varius proin ac duis turpis mollis in ultrices. Accumsan blandit ac sit vestibulum donec tincidunt cursus.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus amet lectus elit ... "
+    },
+    {
+      "id": 5,
+      "image": "/News/news1.svg",
+      "detailImage": "/NewsDeatilImage/newsDetail2.svg",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "firtsDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum morbi quis posuere rutrum id urna in etiam. Sit varius proin ac duis turpis mollis in ultrices. Accumsan blandit ac sit vestibulum donec tincidunt cursus.",
+      "secondDesc": "Eu nulla sit morbi velit aliquam id. Etiam semper nec velit semper blandit mauris arcu elit. Aliquet quis dictumst cras fermentum sit interdum non metus. Eget odio scelerisque consequat dictumst tellus.",
+      "treedDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum morbi quis posuere rutrum id urna in etiam. Sit varius proin ac duis turpis mollis in ultrices. Accumsan blandit ac sit vestibulum donec tincidunt cursus.",
+      "fourdDesc": "Eu nulla sit morbi velit aliquam id. Etiam semper nec velit semper blandit mauris arcu elit. Aliquet quis dictumst cras fermentum sit interdum non metus. Eget odio scelerisque consequat dictumst tellus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum morbi quis posuere rutrum id urna in etiam. Sit varius proin ac duis turpis mollis in ultrices. Accumsan blandit ac sit vestibulum donec tincidunt cursus.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus amet lectus elit ... "
+    },
+    {
+      "id": 6,
+      "image": "/News/news2.svg",
+      "detailImage": "/NewsDeatilImage/newsDetail3.svg",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "firtsDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum morbi quis posuere rutrum id urna in etiam. Sit varius proin ac duis turpis mollis in ultrices. Accumsan blandit ac sit vestibulum donec tincidunt cursus.",
+      "secondDesc": "Eu nulla sit morbi velit aliquam id. Etiam semper nec velit semper blandit mauris arcu elit. Aliquet quis dictumst cras fermentum sit interdum non metus. Eget odio scelerisque consequat dictumst tellus.",
+      "treedDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum morbi quis posuere rutrum id urna in etiam. Sit varius proin ac duis turpis mollis in ultrices. Accumsan blandit ac sit vestibulum donec tincidunt cursus.",
+      "fourdDesc": "Eu nulla sit morbi velit aliquam id. Etiam semper nec velit semper blandit mauris arcu elit. Aliquet quis dictumst cras fermentum sit interdum non metus. Eget odio scelerisque consequat dictumst tellus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum morbi quis posuere rutrum id urna in etiam. Sit varius proin ac duis turpis mollis in ultrices. Accumsan blandit ac sit vestibulum donec tincidunt cursus.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus amet lectus elit ... "
+    },
+    {
+      "id": 7,
+      "image": "/News/news3.svg",
+      "detailImage": "/NewsDeatilImage/newsDetail1.svg",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "firtsDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum morbi quis posuere rutrum id urna in etiam. Sit varius proin ac duis turpis mollis in ultrices. Accumsan blandit ac sit vestibulum donec tincidunt cursus.",
+      "secondDesc": "Eu nulla sit morbi velit aliquam id. Etiam semper nec velit semper blandit mauris arcu elit. Aliquet quis dictumst cras fermentum sit interdum non metus. Eget odio scelerisque consequat dictumst tellus.",
+      "treedDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum morbi quis posuere rutrum id urna in etiam. Sit varius proin ac duis turpis mollis in ultrices. Accumsan blandit ac sit vestibulum donec tincidunt cursus.",
+      "fourdDesc": "Eu nulla sit morbi velit aliquam id. Etiam semper nec velit semper blandit mauris arcu elit. Aliquet quis dictumst cras fermentum sit interdum non metus. Eget odio scelerisque consequat dictumst tellus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum morbi quis posuere rutrum id urna in etiam. Sit varius proin ac duis turpis mollis in ultrices. Accumsan blandit ac sit vestibulum donec tincidunt cursus.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus amet lectus elit ... "
+    },
+    {
+      "id": 8,
+      "image": "/News/news4.svg",
+      "detailImage": "/NewsDeatilImage/newsDetail2.svg",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "firtsDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum morbi quis posuere rutrum id urna in etiam. Sit varius proin ac duis turpis mollis in ultrices. Accumsan blandit ac sit vestibulum donec tincidunt cursus.",
+      "secondDesc": "Eu nulla sit morbi velit aliquam id. Etiam semper nec velit semper blandit mauris arcu elit. Aliquet quis dictumst cras fermentum sit interdum non metus. Eget odio scelerisque consequat dictumst tellus.",
+      "treedDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum morbi quis posuere rutrum id urna in etiam. Sit varius proin ac duis turpis mollis in ultrices. Accumsan blandit ac sit vestibulum donec tincidunt cursus.",
+      "fourdDesc": "Eu nulla sit morbi velit aliquam id. Etiam semper nec velit semper blandit mauris arcu elit. Aliquet quis dictumst cras fermentum sit interdum non metus. Eget odio scelerisque consequat dictumst tellus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum morbi quis posuere rutrum id urna in etiam. Sit varius proin ac duis turpis mollis in ultrices. Accumsan blandit ac sit vestibulum donec tincidunt cursus.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus amet lectus elit ... "
+    }
+  ],
+  "newsDetail": [
+    {
+      "id": 1,
+      "image": "",
+      "date": "05.02.2022",
+      "title": "Lorem ipsum dolor sit amet consectetur "
+    }
+  ],
+  "colleagues": [
+    {
+      "id": 1,
+      "image": "/Colleagues/colleagues1.svg",
+      "name": "Adil Mehdiyev",
+      "specialty": "İnşaat mühəndisi",
+      "experience": "İş təcrübəsi: 2 il"
+    },
+    {
+      "id": 2,
+      "image": "/Colleagues/colleagues2.svg",
+      "name": "Rafiq Rzayev",
+      "specialty": "Texniki təhlükəsizlik üzrə mütəxəssis",
+      "experience": "İş təcrübəsi: 15 ildən çox"
+    },
+    {
+      "id": 3,
+      "image": "/Colleagues/colleagues3.svg",
+      "name": "Zaur Mikayılov",
+      "specialty": "Geodeziya üzrə mütəxəssis",
+      "experience": "İş təcrübəsi: 5 il"
+    },
+    {
+      "id": 4,
+      "image": "/Colleagues/colleagues4.svg",
+      "name": "Rəşad İbrahimov",
+      "specialty": "Geodeziya cihazı üzrə operator",
+      "experience": "İş təcrübəsi: 3 il"
+    },
+    {
+      "id": 5,
+      "image": "/Colleagues/colleagues5.svg",
+      "name": "Elnur Mehtiyev",
+      "specialty": "Sahə rəisi",
+      "experience": "İş təcrübəsi: 1 il"
+    },
+    {
+      "id": 6,
+      "image": "/Colleagues/colleagues6.svg",
+      "name": "Cəmil Bayramov",
+      "specialty": "Sahə rəisi",
+      "experience": "İş təcrübəsi: 1 il"
+    }
+  ],
+  "vacancy": [
+    {
+      "id": 1,
+      "title": "Kargüzarlıq",
+      "startDate": "Elanın verilmə tarixi:  10.03.2022",
+      "endDate": "Elanın bitmə tarixi:  10.04.2022",
+      "salary": "Əmək haqqı:  Müsahibə əsasında",
+      "age": "Yaş həddi:  20-45",
+      "education": "Təhsil: ",
+      "experiencs": "İş təcrübəsi: ",
+      "requests": [
+        "Gündəlik kargüzarlıq və ofis daxili işlərin yerinə yetirilməsi",
+        "Müştərilərlə qarşılıqlı müqavilələr, razılaşdırılma protokulunun və hesab fakturaların hazırlanması",
+        "Şirkətə daxil olan və şirkətdən göndərilən sənədlərin qeydiyyata alınması",
+        "Komandada işləmək bacarığı"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Mühəndis",
+      "startDate": "Elanın verilmə tarixi:  10.03.2022",
+      "endDate": "Elanın bitmə tarixi:  10.04.2022",
+      "salary": "Əmək haqqı:  Müsahibə əsasında",
+      "age": "Yaş həddi:  20-45",
+      "education": "Təhsil: ",
+      "experiencs": "İş təcrübəsi: ",
+      "requests": [
+        "Müvafiq qanunvericilik aktları və normalarını bilməsi",
+        "Mühəndis ixtisası üzrə ali təhsil",
+        "Komandada işləmək bacarığı"
+      ]
+    }
+  ]
+}

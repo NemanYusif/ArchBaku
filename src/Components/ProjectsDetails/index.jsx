@@ -7,8 +7,8 @@ const ProjectsDetails = () => {
   const { pId } = useParams();
 
   const endpoints = [
-    `http://localhost:3000/projects/${pId}`,
-    "http://localhost:3000/projects/?_limit=6",
+    `https://arch-baku-json.vercel.app/projects/${pId}`,
+    "https://arch-baku-json.vercel.app/?_limit=6",
   ];
 
   const [projectsDetail, setProjectsDetail] = useState({});

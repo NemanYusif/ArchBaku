@@ -1,7 +1,7 @@
 import axios from "axios";
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router";
-const URL = "http://localhost:3000/vacancy/";
+const URL = "https://arch-baku-json.vercel.app/vacancy/";
 
 const VacancyInformation = () => {
   const [addInfo, setAddInfo] = useState({});

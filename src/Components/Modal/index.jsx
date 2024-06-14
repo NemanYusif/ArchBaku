@@ -4,7 +4,7 @@ import React, { useState, useEffect } from "react";
 import { useSelector } from "react-redux";
 import axios from "axios";
 
-const URL = "http://localhost:3000/Technique/";
+const URL = "https://arch-baku-json.vercel.app/Technique/";
 const Modal = ({ onClose, setOpenModalAccepted }) => {
   const [inputValue, setOpenValue] = useState({
     fullname: "",

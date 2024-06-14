@@ -7,7 +7,7 @@ import ModalAccepted from "../ModalAccepted";
 import { useSelector, useDispatch } from "react-redux";
 import { idChange } from "../../Slice";
 
-const URL = "http://localhost:3000/Technique/";
+const URL = "https://arch-baku-json.vercel.app/Technique/";
 const TexnoCars = () => {
   const [openModal, setOpenModal] = useState(false);
   const [openModalAccepted, setOpenModalAccepted] = useState(false);

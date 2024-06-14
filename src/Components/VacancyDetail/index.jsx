@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import { IoIosArrowForward } from "react-icons/io";
 import { TbPointFilled } from "react-icons/tb";
 import { Link } from "react-router-dom";
-const URL = "http://localhost:3000/vacancy/";
+const URL = "https://arch-baku-json.vercel.app/vacancy/";
 const VacancyDetail = () => {
   const [vacancyDetail, setVacancyDetail] = useState([]);
   useEffect(() => {
